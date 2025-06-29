@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-28)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`0ec467e`](https://github.com/stdlib-js/stdlib/commit/0ec467e681c02b54383c7f50b5fbb07a938e16cb) - **chore:** remove excess trailing newlines [(#7512)](https://github.com/stdlib-js/stdlib/pull/7512) _(by stdlib-bot)_
 -   [`9a8b80d`](https://github.com/stdlib-js/stdlib/commit/9a8b80d61ab47a547d1c96e2c22c5516fc6b89a8) - **chore:** fix missing field _(by Athan Reines)_
 -   [`ef5b43f`](https://github.com/stdlib-js/stdlib/commit/ef5b43faeb24b8594802eeb0bfa665cafdbf4e85) - **fix:** add missing build task _(by Athan Reines)_
 -   [`0167558`](https://github.com/stdlib-js/stdlib/commit/0167558e007e4f904758ae29bf8cb62f0ed80be7) - **chore:** clean-up _(by Athan Reines)_
