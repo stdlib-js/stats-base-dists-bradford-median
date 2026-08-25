@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-07)
+## Unreleased (2026-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`dac951c`](https://github.com/stdlib-js/stdlib/commit/dac951cf0743628e72910f96b10aa94b6255bd0c) - **test:** migrate `stats/base/dists/bradford/median` to ULP-based assertions [(#14586)](https://github.com/stdlib-js/stdlib/pull/14586) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`fba0af3`](https://github.com/stdlib-js/stdlib/commit/fba0af3d48d889ebd262a0c135238961004ac9fa) - **refactor:** use a function wrapper for native binding [(#13002)](https://github.com/stdlib-js/stdlib/pull/13002) _(by Philipp Burckhardt)_
 -   [`749de6f`](https://github.com/stdlib-js/stdlib/commit/749de6f8c437bf7daad8413ff86175781c934df2) - **bench:** refactor to use string interpolation in `stats/base/dists/bradford` [(#10234)](https://github.com/stdlib-js/stdlib/pull/10234) _(by Vishal Gaikwad)_
@@ -26,8 +27,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   Vishal Gaikwad
 
