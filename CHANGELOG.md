@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-10)
+## Unreleased (2026-10-17)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`e2a77ec`](https://github.com/stdlib-js/stdlib/commit/e2a77ec64c3b817185334570f41dfc68a5a75a50) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`2861fe4`](https://github.com/stdlib-js/stdlib/commit/2861fe430548bb441cce624fcfe35a66059c5fba) - **chore:** clean-up [(#16062)](https://github.com/stdlib-js/stdlib/pull/16062) _(by Philipp Burckhardt)_
 -   [`dac951c`](https://github.com/stdlib-js/stdlib/commit/dac951cf0743628e72910f96b10aa94b6255bd0c) - **test:** migrate `stats/base/dists/bradford/median` to ULP-based assertions [(#14586)](https://github.com/stdlib-js/stdlib/pull/14586) _(by Athan Reines)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`fba0af3`](https://github.com/stdlib-js/stdlib/commit/fba0af3d48d889ebd262a0c135238961004ac9fa) - **refactor:** use a function wrapper for native binding [(#13002)](https://github.com/stdlib-js/stdlib/pull/13002) _(by Philipp Burckhardt)_
